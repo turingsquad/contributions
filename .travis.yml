@@ -1,0 +1,8 @@
+script:
+  - spellcheck
+  - linkcheck
+  - stylecheck
+  - validate_anchors
+branches:
+  only:
+    - master
