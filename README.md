@@ -28,7 +28,7 @@ Create a [team](https://help.github.com/en/articles/about-teams) inside GitHub. 
 
 ## 7. How do I contribute to repositories?
 
-Pull requests. **NEVER** push your changes directly to master. We recomend you to push all created branches to this account directly. This will help in contribution as anyone will be able to checkout to your branch.
+Pull requests. **NEVER** push your changes directly to master. We recomend you to push all created branches to this account directly. This will help in contribution as anyone will be able to checkout to your branch. We recomend to [restrict](https://help.github.com/en/articles/defining-the-mergeability-of-pull-requests) acces to master.
 
 ## 8. What HitHub apps do you use?
 
