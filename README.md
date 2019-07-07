@@ -24,7 +24,7 @@ Contact us on turingsquad.ifmo@gmail.com. We will invite you to organization.
 
 ## 6. Okay, I joined. What's next?
 
-Create a [team](https://help.github.com/en/articles/about-teams) inside GitHub. This will help you to organize yourself and your repositories. Than you can create a repository and start working.
+Create a [team](https://help.github.com/en/articles/about-teams) inside GitHub. This will help you to organize yourself and your repositories. Than you can create a repository and start working. Add your team to collaborators on settings page.
 
 ## 7. How do I contribute to repositories?
 
